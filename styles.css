@@ -27,7 +27,6 @@ html, body {
   flex-direction: column; /* Stacks elements vertically */
   justify-content: center; /* Centers content vertically */
   align-items: center; /* Centers content horizontally */
-  background: linear-gradient(45deg, #4caf50, #81c784); /* Add a background for visual appeal */
   color: white; /* Ensure text stands out against the background */
   text-align: center; /* Centers text */
 }
